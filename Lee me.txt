@@ -1,0 +1,10 @@
+Explicación del Código: 
+
+El otro día había visto un video (https://www.youtube.com/watch?v=5EYqOnz734M) de cómo se utilizaba
+javascript para generar contenido en una página html entonces utilicé el método usado en el video 
+por medio de arreglos para que al momento de presionar el botón siguiente o atrás cambiara el contenido 
+de la página sin tener que crear páginas individuales (De hecho así manejé mis configuraciones de mi juego xd)
+al igual que tuve que crear una función para comprobar que los campos de texto y el radiobutton
+hayan sido llenados para poder continuar con el progreso de la página web usé checkValidity
+ya que es un método que ayuda a comprobar si un campo seleccionado se alinea con ciertos criterios
+para checar si es válido o no 
